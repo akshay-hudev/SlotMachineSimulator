@@ -37,10 +37,15 @@ Tkinter (usually included with Python installations)
 Contributing
 Feel free to fork this repository and contribute improvements or features. Please ensure that any changes are well-documented and tested.
 
-Authors
+Authors:
 H M Akshay
 Saiyam N Bothra
 Bhavani Krupakara S
+
+## License
+
+This project is licensed under the MIT License. You are free to use, modify, and distribute the code as you see fit. For more details, see the [LICENSE](LICENSE) file.
+
 
 Acknowledgements
 This project was developed as part of the 2nd-semester Python course under the VTU syllabus. Special thanks to our instructor and peers for their support and feedback.
